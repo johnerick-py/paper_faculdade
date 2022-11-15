@@ -19,7 +19,7 @@ Jinja2==3.1.2
 jsonschema==4.17.0
 MarkupSafe==2.1.1
 numpy==1.23.4
-opencv-python==3.4.15
+opencv-python==3.4.0.14
 packaging==21.3
 pandas==1.5.1
 Pillow==9.3.0
